@@ -1,2 +1,0 @@
-This is login page, contains the username and password
-this is for authentication
